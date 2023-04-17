@@ -5,7 +5,7 @@
 <h3 align="center">...a multipotential and curious person.<br>And I ❤️ to create.</h3>
 <br>
 
-- 🔭 I’m currently working on [muse (a platform to share, follow and listen to your favourite music)](https://github.com/jesusfvj/muse)
+- 🔭 I’m currently working on <br>[muse (a platform to share, follow and listen to your favourite music)](https://github.com/jesusfvj/muse)<br>[ecommerce daonimia (a personal ecommerce for the purchase of my own photos)](https://github.com/jesusfvj/ecommerce)
 
 - 🌱 I’m currently learning **react, nodejs, mongodb, typescript.**
 
