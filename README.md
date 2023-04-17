@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there , I'm Jesus</h1>
-<h3 align="center">...a multipotential and curious person.\nAnd I ❤️ to create.</h3>
+<h3 align="center">...a multipotential and curious person.<br>And I ❤️ to create.</h3>
 
 - 🔭 I’m currently working on [muse (a platform to share, follow and listen to your favourite music)](https://github.com/jesusfvj/muse)
 
