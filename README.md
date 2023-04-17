@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **html, css, bootstrap, tailwind, react, mysql.**
 
-- 📫 How to reach me **jesusfvelazquez@hotmail.com**
+- 📫 Reach me via: **jesusfvelazquez@hotmail.com**
 
-- ⚡ Fun fact **I have a twin who is my mirror image.**
+- ⚡ Fun fact: **I have a twin who is my mirror image.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusfvj&show_icons=true&theme=tokyonight)
+<br>
+<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusfvj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
