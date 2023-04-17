@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello there.<br>This is Jesus</h1>
 <h3 align="center">...a multipotential and curious person.<br>And I ❤️ to create.</h3>
+<br>
 
 - 🔭 I’m currently working on [muse (a platform to share, follow and listen to your favourite music)](https://github.com/jesusfvj/muse)
 
@@ -21,8 +22,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusfvj&show_icons=true&theme=tokyonight)
-<br>
-<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusfvj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
