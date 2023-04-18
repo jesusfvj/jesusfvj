@@ -1,9 +1,14 @@
-<img align="right" src="https://user-images.githubusercontent.com/119491399/232534915-c7539ed5-dcfa-47d5-a292-661917bfed07.png">
+<!--<img align="right" src="https://user-images.githubusercontent.com/119491399/232534915-c7539ed5-dcfa-47d5-a292-661917bfed07.png">-->
 
-<h1 align="center">👋 Hello there.<br>This is Jesus</h1>
+<img src="https://user-images.githubusercontent.com/119491399/232822838-25f74359-21e9-4911-b6f1-0b5b265e6066.gif" height="150" width="1280">
+
+<br>
+<h1 align="center">👋 Hello there<br>This is Jesus</h1>
 <br>
 <h3 align="center">...a multipotential and curious person.<br>And I ❤️ to create.</h3>
 <br>
+
+<img align="right" src="https://user-images.githubusercontent.com/119491399/232829488-1d7709fd-e318-4eed-86f1-24fa565d60d0.png" height="300">
 
 - 🔭 I’m currently working on <br>[muse (a platform to share, follow and listen to your favourite music)](https://github.com/jesusfvj/muse)<br>[ecommerce daonimia (a personal ecommerce for the purchase of my own photos)](https://github.com/jesusfvj/ecommerce)
 
@@ -45,6 +50,18 @@
   ![Visitor Count](https://profile-counter.glitch.me/jesusfvj/count.svg)
   
    <p>Thanks for visiting   💫<br>See you soon!</p>
+  
+</div>
+
+<br><br>
+
+<div align="center">
+  
+![cropi](https://user-images.githubusercontent.com/119491399/232831034-66491ed8-c168-4c46-9606-c027ba8aed46.gif)
+
+<!--  
+![monkeyIsland](https://user-images.githubusercontent.com/119491399/232814791-39ab210e-4249-4589-924a-a10f60001ec5.gif)
+-->
   
 </div>
 <!--
