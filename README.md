@@ -2,7 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/119491399/232822838-25f74359-21e9-4911-b6f1-0b5b265e6066.gif" height="150" width="1280">
 
-<br>
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>this is Jesus</h1>
 <br>
 <h3 align="center">...a multipotential and curious person.<br>And I ❤️ to create.</h3>
