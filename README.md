@@ -2,12 +2,20 @@
 
 <img src="https://user-images.githubusercontent.com/119491399/232822838-25f74359-21e9-4911-b6f1-0b5b265e6066.gif" height="150" width="1280">
 
-<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>this is Jesus</h1>
+<h1 align="center">Hello, and welcome to my GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>This is Jesus</h1>
 <br>
-<h3 align="center">...a multipotential and curious person.<br>And I ❤️ to create.</h3>
+<h3 align="center">I'm an enthusiastic and creative person who loves to express myself through art and design.<br>I ❤️ to create.</h3>
 <br>
 
 <img align="right" src="https://user-images.githubusercontent.com/119491399/232829488-1d7709fd-e318-4eed-86f1-24fa565d60d0.png" height="300">
+
+ If you're a fan of Monkey Island, you might notice a couple of gifs from the game on my profile - it's one of my all-time favorites!
+
+As someone who loves to create, I'm excited to explore the world of programming and see what kind of amazing things I can build. I'm always eager to learn new things and take on new challenges, and I believe that programming offers endless opportunities for creativity and problem-solving.
+
+So take a look around my profile, and feel free to reach out if you have any questions or just want to say hi. I'm looking forward to connecting with fellow developers and exploring all that this amazing community has to offer!
+
+<br>
 
 - 🔭 I’m currently working on <br>[muse (a platform to share, follow and listen to your favourite music)](https://github.com/jesusfvj/muse)<br>[ecommerce daonimia (a personal ecommerce for the purchase of my own photos)](https://github.com/jesusfvj/ecommerce)
 
